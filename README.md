@@ -1,4 +1,4 @@
-````markdown
+
 # EE656 SOC Course Project
 
 Implementation and analysis of a research-paper-based clustering project for **EE656: Artificial Intelligence, Machine Learning, Deep Learning & Its Applications** at IIT Kanpur.
@@ -98,10 +98,6 @@ This project was completed as part of:
 **EE656 -- Artificial Intelligence, Machine Learning, Deep Learning & Its Applications**
 Indian Institute of Technology Kanpur
 
-## Author
-
-**Muragesh Nyamagoud**
-Indian Institute of Technology Kanpur
 
 ```
-```
+
